@@ -1,0 +1,8 @@
+.DS_Store
+
+# 飞书镜像与同步工具，仅本地使用
+feishu/
+
+# 临时实验与中间产物
+scratch/
+AGENTS.md
